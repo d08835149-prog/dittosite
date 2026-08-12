@@ -93,3 +93,21 @@ section p {
 #projects a:hover {
     background-color: #c4b5fd;
 }
+
+#contact {
+    padding-bottom: 120px;
+}
+
+#contact a {
+    color: #a78bfa;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+.tagline {
+    color: #a78bfa;
+    font-weight: bold;
+}
